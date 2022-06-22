@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b0dc2850-cdf4-4a71-9d81-b0514049b752</ProjectGuid>
+    <ProjectGuid>33e920c8-fa02-422a-9b94-13f9a6a73d41</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>Kata.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>_8kyu_ConvertANumberToAString</Name>
-    <RootNamespace>_8kyu_ConvertANumberToAString</RootNamespace>
+    <Name>_7kyu_ReverseWords</Name>
+    <RootNamespace>_7kyu_ReverseWords</RootNamespace>
     <TestFramework>unittest</TestFramework>
     <UnitTestPattern>*Tests.py</UnitTestPattern>
     <UnitTestRootDirectory>.</UnitTestRootDirectory>
@@ -24,10 +24,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Kata.py" />
-    <Compile Include="_8kyu_ConvertANumberToAString_Tests.py">
+    <Compile Include="_7kyu_ReverseWords_Tests.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Kata.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
