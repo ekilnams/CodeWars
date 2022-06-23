@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Python", "Python", "{A3BE45
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_7kyu_ReverseWords", "Python\_7kyu_ReverseWords\_7kyu_ReverseWords.pyproj", "{33E920C8-FA02-422A-9B94-13F9A6A73D41}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_6kyu_DetectPangram", "Python\_6kyu_DetectPangram\_6kyu_DetectPangram.pyproj", "{BF90D7D7-0333-42D1-9D5F-398A5A5005BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_6kyu_DuplicateEncoder", "Python\_6kyu_DuplicateEncoder\_6kyu_DuplicateEncoder.pyproj", "{8BACF01F-48B6-46B6-942D-F20F82ED2B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{B0DC2850-CDF4-4A71-9D81-B0514049B752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33E920C8-FA02-422A-9B94-13F9A6A73D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33E920C8-FA02-422A-9B94-13F9A6A73D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF90D7D7-0333-42D1-9D5F-398A5A5005BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF90D7D7-0333-42D1-9D5F-398A5A5005BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BACF01F-48B6-46B6-942D-F20F82ED2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BACF01F-48B6-46B6-942D-F20F82ED2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +57,8 @@ Global
 		{24976DC7-152F-444B-B026-722F7C4A6346} = {507285AC-A1F8-4F1A-9235-5364C133C2C0}
 		{B0DC2850-CDF4-4A71-9D81-B0514049B752} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
 		{33E920C8-FA02-422A-9B94-13F9A6A73D41} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
+		{BF90D7D7-0333-42D1-9D5F-398A5A5005BC} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
+		{8BACF01F-48B6-46B6-942D-F20F82ED2B2A} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {10F8A384-6D0B-44CE-91D2-264D6E8927D8}
