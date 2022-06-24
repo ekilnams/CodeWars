@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32602.215
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_5kyu_TheHungerGames_ZooDisaster", "CSharp\_5kyu_TheHungerGames_ZooDisaster\_5kyu_TheHungerGames_ZooDisaster.csproj", "{FB8135F8-7150-4E8F-855D-45BAC6F239F9}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_7kyu_BaristaProblem", "Python\_7kyu_BaristaProblem\_7kyu_BaristaProblem.pyproj", "{485794F6-B62F-4DD5-9648-2F48360C9D28}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_5kyu_BaristaManager", "Python\_5kyu_BaristaManager\_5kyu_BaristaManager.pyproj", "{7F04AE68-50E7-4180-9BF2-85AE70E99B87}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_5kyu_CockroachBugScatter", "Python\_5kyu_CockroachBugScatter\_5kyu_CockroachBugScatter.pyproj", "{3C103A6B-5545-4398-9B8B-8E930062A574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,8 @@ Global
 		{485794F6-B62F-4DD5-9648-2F48360C9D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F04AE68-50E7-4180-9BF2-85AE70E99B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7F04AE68-50E7-4180-9BF2-85AE70E99B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C103A6B-5545-4398-9B8B-8E930062A574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C103A6B-5545-4398-9B8B-8E930062A574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +73,7 @@ Global
 		{8BACF01F-48B6-46B6-942D-F20F82ED2B2A} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
 		{485794F6-B62F-4DD5-9648-2F48360C9D28} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
 		{7F04AE68-50E7-4180-9BF2-85AE70E99B87} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
+		{3C103A6B-5545-4398-9B8B-8E930062A574} = {A3BE451B-8BD3-4F4D-97AB-926A830FE710}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {10F8A384-6D0B-44CE-91D2-264D6E8927D8}
